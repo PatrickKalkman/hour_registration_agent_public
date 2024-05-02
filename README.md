@@ -1,7 +1,10 @@
 # Hour Registration Agent
-Repository that contains the code of a [Medium article](https://) called "Unleash Your AI Agent: Automate Time Tracking With LangGraph and Meta Llama 3"
+
+Repository that contains the code of a [Medium article](https://) called "Unleash Your AI Agent: Automate Time Tracking With LangGraph and Meta Llama 3"
 
 ![AI Agent](cover.jpg)
+
+<!-- Ensure there's a blank line after the image for spacing -->
 
 ## Introduction
 
